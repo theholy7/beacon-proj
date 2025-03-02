@@ -2,7 +2,7 @@
 name = "beacon-proj"
 version = "0.1.0"
 description = ""
-authors = [{ name = "Jose Antunes", email = "theholy7@gmail.com" }]
+authors = [{ name = "Jose Antunes", email = "a@example.com" }]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
